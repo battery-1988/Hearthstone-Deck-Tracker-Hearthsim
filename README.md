@@ -188,3 +188,6 @@ This repository serves as the official landing page for Hearthstone Deck Tracker
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Hearthstone Deck Tracker today!**
+
+---
+**Last updated:** 2026-11-06 05:46:58 UTC
