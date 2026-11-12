@@ -190,4 +190,4 @@ This repository serves as the official landing page for Hearthstone Deck Tracker
 **Get the most recent version of Hearthstone Deck Tracker today!**
 
 ---
-**Last updated:** 2026-11-12 09:29:36 UTC
+**Last updated:** 2026-11-12 17:59:26 UTC
